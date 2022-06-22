@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Django
 - 💬 Ask me about programming
-- ⚡ Fun fact: I am the only one in the world
 
 #### My statistics
 <div>
