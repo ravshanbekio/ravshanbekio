@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about programming
 
 #### My statistics
