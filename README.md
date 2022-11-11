@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ [![HitCount](https://hits.dwyl.com/ravshanbekio/ravshanbekio.svg?style=flat-square)](http://hits.dwyl.com/ravshanbekio/ravshanbekio)
+
 
 - 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about programming
