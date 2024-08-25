@@ -3,7 +3,7 @@
  [![HitCount](https://hits.dwyl.com/ravshanbekio/ravshanbekio.svg?style=flat-square)](http://hits.dwyl.com/ravshanbekio/ravshanbekio)
 
 
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently trying to be master in Docker
 - 💬 Ask me about programming
 
 #### My statistics
